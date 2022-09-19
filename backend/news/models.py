@@ -9,6 +9,9 @@ class User(AbstractUser):
 class Category(models.Model):
     name = models.CharField(max_length=50)
 
+    def __str__(self):
+        return self.name
+
 
 class News(models.Model):
     title = models.CharField(max_length=255, null=True)
@@ -20,3 +23,6 @@ class News(models.Model):
     date_updated = models.DateTimeField(auto_now=True)
     active = models.BooleanField(default=True)
     category = models.ForeignKey(Category, on_delete=models.SET_NULL, null=True)
+
+    def __str__(self):
+        return self.title

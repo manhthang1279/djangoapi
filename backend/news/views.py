@@ -1,6 +1,9 @@
 from django.shortcuts import render
-from django.http import HttpResponse
+from rest_framework import viewsets
+from .models import News
+from .serializers import NewsSerializer
 
 
-def index(request):
-    return HttpResponse('Hello Word!')
+class NewsViewSet(viewsets.ModelViewSet):
+    queryset = News.objects.all()
+    serializer_class = NewsSerializer
