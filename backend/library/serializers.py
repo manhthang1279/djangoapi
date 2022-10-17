@@ -1,5 +1,5 @@
 from rest_framework.serializers import ModelSerializer
-from library.models import Category, Books, Borrow
+from .models import Category, Books, Borrow
 
 
 class CategorySerializer(ModelSerializer):
