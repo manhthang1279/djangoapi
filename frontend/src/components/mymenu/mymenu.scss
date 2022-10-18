@@ -1,0 +1,16 @@
+.menu {
+    padding: 15px;
+    color: aqua;
+    margin-top: 150px;
+
+    .divider {       
+        height: 6.5px;       
+
+        .menuitem {
+            color: rgba(14, 5, 48, 0.459);
+            padding: 10px;
+            font-size: 14px;
+            width: 150px;  
+        }              
+    }    
+}
