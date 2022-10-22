@@ -1,14 +1,9 @@
-import Header from '../../components/header/Header';
-import './home.scss';
-
+import Navbar from "../../components/Navbar";
 
 const Home = () => {
-    return (
-        <div className="home">
-            <Header />
-            Home Container
-        </div>
-    );
+    return ( 
+        <Navbar/>
+     );
 }
-
+ 
 export default Home;
