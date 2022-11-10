@@ -5,21 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8959b45c-2814-406c-8f25-656891169a84" name="Changes" comment="Finish 1">
-      <change afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_0Z9lGZ5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_6kdOQlE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_8OVRdET.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_Y0ezUCe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_cwZxh8e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/11/vlcsnap-2022-02-22-11h34m01s960.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/11/vlcsnap-2022-02-22-11h34m01s960_G7GL7vm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/11/vlcsnap-2022-02-22-11h34m01s960_LVs86yi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/djangoapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/djangoapi.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/news/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/news/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/uploads/avatar/2022/09/CCCD1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/uploads/avatar/2022/09/CCCD1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/uploads/news/2022/09/Picture1.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/uploads/news/2022/09/Picture1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/avatar/2022/09/CCCD1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/avatar/2022/09/CCCD1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/09/Picture1.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/09/Picture1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_0Z9lGZ5.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_0Z9lGZ5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_6kdOQlE.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_6kdOQlE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_8OVRdET.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_8OVRdET.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_Y0ezUCe.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_Y0ezUCe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_cwZxh8e.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/10/vlcsnap-2022-02-22-11h34m01s960_cwZxh8e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/11/vlcsnap-2022-02-22-11h34m01s960.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/11/vlcsnap-2022-02-22-11h34m01s960.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/11/vlcsnap-2022-02-22-11h34m01s960_G7GL7vm.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/11/vlcsnap-2022-02-22-11h34m01s960_G7GL7vm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/static/uploads/news/2022/11/vlcsnap-2022-02-22-11h34m01s960_LVs86yi.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/media/uploads/news/2022/11/vlcsnap-2022-02-22-11h34m01s960_LVs86yi.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,10 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\doman\Dropbox\djangoapi\backend\media" />
+      <recent name="C:\Users\doman\Dropbox\djangoapi\backend" />
       <recent name="C:\Users\doman\Dropbox\djangoapi\backend\static" />
+      <recent name="C:\Users\doman\Dropbox\djangoapi\backend\static\media" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -100,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664115470912</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finish 1">
+      <created>1667315402760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667315402760</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
